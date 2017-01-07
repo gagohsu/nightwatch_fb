@@ -1,0 +1,19 @@
+{
+  "name": "nightwatch_clawer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nightwatch"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-driver-standalone": "^2.25.0",
+    "nightwatch": "^0.9.11",
+    "selenium-server-standalone-jar": "^3.0.1"
+  }
+}
